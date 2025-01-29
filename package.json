@@ -1,0 +1,22 @@
+{
+    "name": "com.commonzenmedia.camecenterpackage",
+    "displayName": "GameCenter.Package",
+    "description": "Game Center Apple Unity Plug-ins.",
+    "version": "1.0.0",
+    "unity": "6000.0.35",
+    "keywords": [
+        "apple"
+    ],
+    "author": {
+        "name": "Yesid Samir Hernandez Granados",
+        "email": "xerthriz@gmail.com",
+        "url": "www.xerthriz.com"
+    },
+    "samples": [
+        {
+            "displayName": "API Availability Demo",
+            "description": "Demo for API Availability Checking",
+            "path": "Samples~/AvailabilitySample"
+        }
+    ]
+}
