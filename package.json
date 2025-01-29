@@ -3,7 +3,7 @@
     "displayName": "GameCenter.Package",
     "description": "Game Center Apple Unity Plug-ins.",
     "version": "1.0.0",
-    "unity": "6000.0.35",
+    "unity": "2019.2",
     "keywords": [
         "apple"
     ],
